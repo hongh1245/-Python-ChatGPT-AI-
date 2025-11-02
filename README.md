@@ -2,8 +2,10 @@
 
 開發過程
 1. 事前準備與環境配置
+2. 
 <img width="927" height="117" alt="image" src="https://github.com/user-attachments/assets/1ed11997-b15c-4d07-bf4a-616e93f95e77" />
-2.
+
+
 遇到API 額度不足
 
 <img width="498" height="665" alt="image" src="https://github.com/user-attachments/assets/2d47ee57-7e03-4a41-8e95-3f3af81e6551" />
@@ -12,7 +14,7 @@
 
 <img width="930" height="273" alt="image" src="https://github.com/user-attachments/assets/1d592eb7-9090-42bd-8998-a6c37727cec8" />
 
-因為要使用了個API金鑰，因此先將API設置在windows系統中
+因為要使用多個API金鑰，因此先將API設置在windows系統中
 
 <img width="1464" height="698" alt="螢幕擷取畫面 2025-11-02 232633" src="https://github.com/user-attachments/assets/4e017e2e-d667-4d86-803e-8a92e76bcbc0" />
 
